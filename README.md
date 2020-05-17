@@ -4,7 +4,7 @@ A website unblocker in flutter for android.
 
 It can be downloaded from here: https://outflaw.blogspot.com/2020/05/anticensorship-tool-for-android-finally.html
 
-This Tool is completely rewritten by Godwin U from originally developed Anticensorship Tool in C/C++ by M.Anish .
+This Tool is completely rewritten by Godwin U from originally developed Anticensorship Tool in C/C++ by M.Anish as a joint project.
 
 However this tool can also be used to access youtube,hotstar,voot in Schools where it is blocked.
 
