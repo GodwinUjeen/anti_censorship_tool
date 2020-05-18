@@ -42,7 +42,10 @@ class _Tool extends State<Tool> {
       child: Scaffold(
         appBar: AppBar(
           automaticallyImplyLeading: false,
-          title: Text("Anti CensorShip Tool"),
+          title: Text(
+            "Anti CensorShip Tool",
+            textAlign: TextAlign.justify,
+          ),
           actions: <Widget>[
             PopupMenuButton<String>(
               onSelected: choiceAction,
@@ -59,14 +62,14 @@ class _Tool extends State<Tool> {
         ),
         body: Container(
           child: Column(
-            crossAxisAlignment: CrossAxisAlignment.start,
+            crossAxisAlignment: CrossAxisAlignment.center,
             mainAxisAlignment: MainAxisAlignment.center,
             children: <Widget>[
               Text(
-                "  Anti Censorship Tool",
+                "Anti Censorship Tool", textAlign: TextAlign.center,
                 style: TextStyle(
                     color: Colors.black54,
-                    fontSize: 40,
+                    fontSize: 35,
                     fontWeight: FontWeight.bold),
               ),
               SizedBox(
@@ -81,6 +84,8 @@ class _Tool extends State<Tool> {
                   padding: EdgeInsets.all(15),
                   width: 350.0,
                   height: 80.0,
+                  alignment: Alignment(0, 0),
+                  margin: new EdgeInsets.all(20.0),
                   decoration: BoxDecoration(
                       borderRadius: BorderRadius.circular(12),
 
@@ -88,6 +93,7 @@ class _Tool extends State<Tool> {
                   child: Column(
                     children: <Widget>[
                       Container(
+
                         child: TextField(
                           controller: _controller,
                           decoration: InputDecoration(
