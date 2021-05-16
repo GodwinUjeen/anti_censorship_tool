@@ -13,3 +13,8 @@ THE DEVELOPERS WILL NOT BE RESPONSIBLE FOR ANY DAMAGES ARISING FROM THE USE OF T
 FOR PRIVACY POLICY CHECK THE PRIVAY POLICIES OF EACH AND EVERY INDIVIDUAL PROXY LISTED IN THIS TOOL.
 
 THIS TOOL WAS DEVELOPED FOR ETHICAL AND EXPERIMENTING PURPOSE ONLY.
+
+# Sample Screenshots
+
+<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/Screenshot_20210516-231910.png" height='160' width='280'> &emsp;&emsp;
+<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/Screenshot_20210516-231921.png" height='160' width='280'>
