@@ -16,5 +16,5 @@ THIS TOOL WAS DEVELOPED FOR ETHICAL AND EXPERIMENTING PURPOSE ONLY.
 
 # Sample Screenshots
 
-<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/right.png" height="280" width="160"> &emsp;&emsp;&emsp;
-<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/left.png" height="280" width="160">
+<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/right.png" height="420" width="240"> &emsp;
+<img src = "https://github.com/GodwinUjeen/anti_censorship_tool/blob/master/Screenshots/left.png" height="420" width="240">
